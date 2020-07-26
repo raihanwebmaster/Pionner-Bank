@@ -1,0 +1,48 @@
+body{
+    padding: 150px;
+    font-family: 'Roboto', sans-serif;
+   
+}
+.submit-area{
+    margin-top: 70px;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow:  5px 5px 10px grey;
+    
+}
+#transaction-area{
+    display: none;
+}
+.status{
+    margin: 0 10px;
+    color: white;
+    padding: 60px;
+    border-radius:  10px;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+#p{
+    color:#4285F4 ;
+}
+#i{
+    color:#EA4335 ;
+}
+#o{
+    color:#FBBC05 ;
+}
+#n{
+    color: #ED5D51 ;
+}
+.e{
+    color: #686de0;
+}
+#r{
+    color: #f9ca24;
+}
